@@ -1,0 +1,16 @@
+
+#user-feedback{
+    width: 450px;
+    margin-left: 300px;
+    border-top: 1px solid #198754;
+    border-right: 1px solid #198754;
+}
+input{
+    width: 400px;
+}
+.btn-sub{
+    background-color: #198754;
+    border: none;
+    color: white;
+    height: 50px;
+}
